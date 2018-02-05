@@ -1,0 +1,28 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\KonyVisualizerEnterprise8\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\568\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "D:\\kony\\WorkSpace\\81\\sidhanta\\CalenderWidget\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\KonyVisualizerEnterprise8\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\568\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "D:\\kony\\WorkSpace\\81\\sidhanta\\CalenderWidget\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "39%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfed1a2de1944df49069fa0ded98ee39",
+    "_top_": {
+        "type": "string",
+        "value": "61%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0j311ed0cded945",
+        "CopyFlexContainer0d9780684979346",
+        "CopyFlexContainer0fe6872cec32f4a",
+        "CopyFlexContainer0g3c679b18d4f4b",
+        "CopyFlexContainer0h4f9a0646f7845",
+        "CopyFlexContainer0d71a7a79e1ac40",
+        "CopyFlexContainer0c9b8eef7e55b4d",
+        "CopyFlexContainer0c0f2ae06abe544",
+        "CopyFlexContainer0ef4a001927024f",
+        "CopyFlexContainer0ed8cff3101e641",
+        "CopyFlexContainer0f71701a76b6544",
+        "CopyFlexContainer0b1fcf18755d04f",
+        "CopyFlexContainer0efa8cbee17ce49",
+        "CopyFlexContainer0a0323144b4664b",
+        "CopyFlexContainer0dbf0d983caa440",
+        "CopyFlexContainer0a3affee6c4ca49",
+        "CopyFlexContainer0b637a0c1e70d4f",
+        "CopyFlexContainer0b4471919ff2f41",
+        "CopyFlexContainer0be44cd542cdb41",
+        "CopyFlexContainer0ed7b7a9eab584b",
+        "CopyFlexContainer0j72f16a482f04e",
+        "CopyFlexContainer0e24785c442c747",
+        "CopyFlexContainer0i88477e20b8f4c",
+        "CopyFlexContainer0i3dab46ed79248",
+        "CopyFlexContainer0dfa90c8a40c341"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollContainer0cefab937862341",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "be2e46545400453db8ea9475ed074dcb",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
